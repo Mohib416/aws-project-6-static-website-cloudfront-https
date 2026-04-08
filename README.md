@@ -169,7 +169,7 @@ with valid HTTPS and secure SSL connection.
 
 ## 🏗️ Architecture Diagram
 
-[View Architecture Diagram](./diagram/23-final-project-6-architecture-diagram.png)
+![Architecture Diagram](./diagram/23-final-project-6-architecture-diagram.png)
 
 ---
 
