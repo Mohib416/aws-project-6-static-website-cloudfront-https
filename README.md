@@ -171,31 +171,45 @@ with valid HTTPS and secure SSL connection.
 
 ![Project 6 Architecture Diagram](./diagram/Project%206%20Diagram.png)
 
-## 📸 Screenshots
+## 📸 Key Screenshots
 
-### Project Steps
+### 1) S3 Bucket Created
+![S3 Bucket Created](./screenshots/01-s3-bucket-created.png)
 
-* [01 - S3 Bucket Created](./screenshots/01-s3-bucket-created.png)
-* [02 - S3 Bucket Properties](./screenshots/02-s3-bucket-properties.png)
-* [03 - Upload Files](./screenshots/03-s3-upload-files.png)
-* [04 - Files Uploaded](./screenshots/04-s3-files-uploaded.png)
-* [05 - Static Website Enabled](./screenshots/05-static-website-enabled.png)
-* [06 - CloudFront Settings Before Create](./screenshots/06-cloudfront-settings-before-create.png)
-* [07 - CloudFront Created Overview](./screenshots/07-cloudfront-created-overview.png)
-* [08 - Access Denied Error](./screenshots/08-cloudfront-access-denied-error.png)
-* [09 - File Extension Troubleshooting](./screenshots/09-s3-file-extension-troubleshooting.png)
-* [10 - Correct HTML CSS Files](./screenshots/10-vscode-correct-html-css-files.png)
-* [11 - CloudFront Live Website Success](./screenshots/11-cloudfront-live-website-success.png)
-* [12 - Namecheap Domain Checkout](./screenshots/12-namecheap-domain-checkout.png)
-* [13 - ACM Dashboard](./screenshots/13-ACM_Dashboard_us-east-1.png)
-* [14 - Request Public Certificate](./screenshots/14-Request_Public_Certificate.png)
-* [15 - Certificate Validation Settings](./screenshots/15-Certificate_Domain_Validation_Settings.png)
-* [16 - Certificate Pending Validation](./screenshots/16-Certificate_Pending_Validation.png)
-* [17 - ACM CNAME Records Added](./screenshots/17-Namecheap_ACM_CNAME_Records_Added.png)
-* [18 - Certificate Validation Success](./screenshots/18-acm-certificate-validation-success.png)
-* [19 - CloudFront Custom Domain Settings](./screenshots/19-cloudfront-custom-domain-settings.png)
-* [20 - Namecheap CNAME to CloudFront](./screenshots/20-namecheap-www-cname-cloudfront.png)
-* [22 - Final HTTPS Secure Live Site](./screenshots/22-custom-domain-live-https-secure-final.png)
+### 2) Static Website Enabled
+![Static Website Enabled](./screenshots/05-static-website-enabled.png)
+
+### 3) CloudFront Configuration
+![CloudFront Settings Before Create](./screenshots/06-cloudfront-settings-before-create.png)
+
+### 4) Initial Error and Troubleshooting
+![CloudFront Access Denied Error](./screenshots/08-cloudfront-access-denied-error.png)
+
+![S3 File Extension Troubleshooting](./screenshots/09-s3-file-extension-troubleshooting.png)
+
+### 5) Fix Applied Using VS Code
+![VS Code Correct HTML CSS Files](./screenshots/10-vscode-correct-html-css-files.png)
+
+### 6) Website Live on CloudFront
+![CloudFront Live Website Success](./screenshots/11-cloudfront-live-website-success.png)
+
+### 7) ACM Certificate Setup
+![ACM Dashboard](./screenshots/13-ACM_Dashboard_us-east-1.png)
+
+![Request Public Certificate](./screenshots/14-Request_Public_Certificate.png)
+
+![Certificate Validation Settings](./screenshots/15-Certificate_Domain_Validation_Settings.png)
+
+### 8) Certificate Validation Success
+![Certificate Validation Success](./screenshots/18-acm-certificate-validation-success.png)
+
+### 9) Custom Domain DNS Configuration
+![CloudFront Custom Domain Settings](./screenshots/19-cloudfront-custom-domain-settings.png)
+
+![Namecheap WWW CNAME CloudFront](./screenshots/20-namecheap-www-cname-cloudfront.png)
+
+### 10) Final Live HTTPS Website
+![Custom Domain Live HTTPS Secure Final](./screenshots/21-custom-domain-live-https-secure-final.png)
 
 ---
 
