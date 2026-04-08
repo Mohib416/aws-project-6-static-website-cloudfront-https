@@ -209,5 +209,5 @@ with valid HTTPS and secure SSL connection.
 
 ## 👨‍💻 Author
 
-**Mohib**
-Junior Cloud Engineer | AWS Projects Portfolio
+Muhammad Mohib
+
